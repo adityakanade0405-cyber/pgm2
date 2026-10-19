@@ -1,0 +1,13 @@
+{
+  "name": "ai-language-translator-simplifier",
+  "version": "1.0.0",
+  "description": "Student practical project for AI-powered translation, text simplification, glossary, and comparison.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
